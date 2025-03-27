@@ -28,7 +28,8 @@ Ensure you have the following installed:
 - MySQL Server
 - Required Python Libraries:
   ```sh
-  pip install mysql-connector-python pandas
+  pip install mysql-connector-python
+  pip install pandas as pd
   ```
 
 ### **Setup Instructions**
