@@ -34,11 +34,11 @@ Ensure you have the following installed:
 ### **Setup Instructions**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/karmukilkar/Project-Customer-behaviour-analysis.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd your-repository
+   cd https://github.com/Karmukilkar/Project-Customer-behaviour-analysis/tree/main
    ```
 3. Configure your MySQL database credentials in the script.
 4. Run the script:
@@ -54,4 +54,4 @@ This project is licensed under the MIT License.
 
 ---
 **Author:** karthik muruganathem  
-**GitHub:** 
+**GitHub:** https://github.com/Karmukilkar/Project-Customer-behaviour-analysis/tree/main
