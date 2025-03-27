@@ -24,7 +24,7 @@ The insights derived from this project can be utilized to enhance the **ShopEasy
 ## **Installation & Usage**
 ### **Prerequisites**
 Ensure you have the following installed:
-- Python 3.x
+- Python (latest version)
 - MySQL Server
 - Required Python Libraries:
   ```sh
